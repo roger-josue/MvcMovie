@@ -1,4 +1,4 @@
-# First API with ASP.NET CORE Controllers
+# First ASP.NET CORE MVC project
 Step by step turorial from the .NET documentation. Aims to learn the fundamentals of building a .NET CORE MVC project with razor and EF Core.
 
 ## Objectives
